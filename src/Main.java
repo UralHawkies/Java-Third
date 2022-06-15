@@ -12,7 +12,7 @@ public class Main {
         bonus = addedAmount / 100;
 
         if (addedAmount < 1000) {
-            System.out.println(base_balance + added_amount + " Баланс ");
+            System.out.println(baseBalance + addedAmount + " Баланс ");
         }
 
         if (addedAmount > 1000) {
